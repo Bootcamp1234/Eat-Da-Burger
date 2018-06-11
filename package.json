@@ -1,0 +1,30 @@
+{
+  "name": "expresstemplate-hbs",
+  "version": "1.0.0",
+  "description": "Eat-Burger",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3",
+    "express-handlebars": "^3.0.0",
+    "method-override": "^2.3.10",
+    "morgan": "^1.9.0",
+    "mysql": "^2.15.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node server.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/teachcoding/expresstemplate-hbs.git"
+  },
+  "keywords": [],
+  "author": "pm",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/teachcoding/expresstemplate-hbs/issues"
+  },
+  "homepage": "https://github.com/teachcoding/expresstemplate-hbs#readme"
+}
